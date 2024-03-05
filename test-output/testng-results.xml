@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-04T14:32:47 IST" name="Suite" finished-at="2024-03-04T14:34:51 IST" duration-ms="123603">
+    <groups>
+    </groups>
+    <test started-at="2024-03-04T14:32:47 IST" name="Test-chrome" finished-at="2024-03-04T14:34:51 IST" duration-ms="123603">
+      <class name="TestCases.find_used_Cars">
+        <test-method is-config="true" signature="driverSetup()[pri:0, instance:TestCases.find_used_Cars@771a660]" started-at="2024-03-04T14:33:21 IST" name="driverSetup" finished-at="2024-03-04T14:33:52 IST" duration-ms="31003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="navigate_used_cars()[pri:4, instance:TestCases.find_used_Cars@771a660]" started-at="2024-03-04T14:33:52 IST" name="navigate_used_cars" finished-at="2024-03-04T14:34:18 IST" duration-ms="26840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_used_cars -->
+        <test-method signature="popular_model()[pri:5, instance:TestCases.find_used_Cars@771a660]" started-at="2024-03-04T14:34:19 IST" name="popular_model" finished-at="2024-03-04T14:34:21 IST" duration-ms="2802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- popular_model -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.find_used_Cars@771a660]" started-at="2024-03-04T14:34:22 IST" name="teardown" finished-at="2024-03-04T14:34:23 IST" duration-ms="1296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCases.find_used_Cars -->
+      <class name="TestCases.navigate_to_upcoming_Bikes">
+        <test-method is-config="true" signature="driverSetup()[pri:0, instance:TestCases.navigate_to_upcoming_Bikes@72e5a8e]" started-at="2024-03-04T14:32:48 IST" name="driverSetup" finished-at="2024-03-04T14:33:01 IST" duration-ms="12618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="navigate()[pri:1, instance:TestCases.navigate_to_upcoming_Bikes@72e5a8e]" started-at="2024-03-04T14:33:01 IST" name="navigate" finished-at="2024-03-04T14:33:08 IST" duration-ms="7564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method signature="Slect_Honda_Manuf()[pri:2, instance:TestCases.navigate_to_upcoming_Bikes@72e5a8e]" started-at="2024-03-04T14:33:09 IST" name="Slect_Honda_Manuf" finished-at="2024-03-04T14:33:13 IST" duration-ms="4209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Slect_Honda_Manuf -->
+        <test-method signature="bike_under_4lakh()[pri:3, instance:TestCases.navigate_to_upcoming_Bikes@72e5a8e]" started-at="2024-03-04T14:33:13 IST" name="bike_under_4lakh" finished-at="2024-03-04T14:33:19 IST" duration-ms="5749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bike_under_4lakh -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.navigate_to_upcoming_Bikes@72e5a8e]" started-at="2024-03-04T14:33:19 IST" name="teardown" finished-at="2024-03-04T14:33:21 IST" duration-ms="1256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCases.navigate_to_upcoming_Bikes -->
+      <class name="TestCases.loginerror">
+        <test-method is-config="true" signature="driverSetup()[pri:0, instance:TestCases.loginerror@2d52216b]" started-at="2024-03-04T14:34:23 IST" name="driverSetup" finished-at="2024-03-04T14:34:35 IST" duration-ms="12039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="user_reg()[pri:6, instance:TestCases.loginerror@2d52216b]" started-at="2024-03-04T14:34:35 IST" name="user_reg" finished-at="2024-03-04T14:34:50 IST" duration-ms="14522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_reg -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.loginerror@2d52216b]" started-at="2024-03-04T14:34:50 IST" name="teardown" finished-at="2024-03-04T14:34:51 IST" duration-ms="1208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCases.loginerror -->
+    </test> <!-- Test-chrome -->
+  </suite> <!-- Suite -->
+</testng-results>

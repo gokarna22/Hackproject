@@ -1,0 +1,68 @@
+14:29:28.913 [main] INFO  TestBase.zighome - Open the zigwheel Homepage
+14:31:17.373 [main] INFO  TestBase.zighome - Open the zigwheel Homepage
+14:31:33.139 [main] INFO  TestBase.zighome - Select Honda as manufacturer
+14:31:37.911 [main] INFO  TestBase.zighome - Select Price under 4 lakh
+14:32:03.995 [main] INFO  TestBase.zighome - Select used cars in chennai
+14:32:17.890 [main] INFO  TestBase.zighome - Get model list
+14:32:36.960 [main] INFO  TestBase.zighome - Login the site with google
+16:10:26.135 [main] INFO  TestBase.zighome - --- Running on local system ---
+16:10:39.312 [main] INFO  TestBase.zighome - Open the zigwheel Homepage
+16:10:58.013 [main] INFO  TestBase.zighome - Select Honda as manufacturer
+16:11:01.503 [main] INFO  TestBase.zighome - Select Price under 4 lakh
+16:11:15.460 [main] INFO  TestBase.zighome - --- Running on local system ---
+16:11:28.300 [main] INFO  TestBase.zighome - Select used cars in chennai
+16:12:13.482 [main] INFO  TestBase.zighome - Get model list
+16:12:19.322 [main] INFO  TestBase.zighome - --- Running on local system ---
+16:13:09.793 [main] INFO  TestBase.zighome - Login the site with google
+16:26:14.736 [main] INFO  TestBase.zighome - --- Running on selenium grid system ---
+16:29:17.228 [main] INFO  TestBase.zighome - --- Running on selenium grid system ---
+16:32:17.277 [main] INFO  TestBase.zighome - --- Running on selenium grid system ---
+14:04:39.784 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:04:51.073 [main] INFO  TestBase.zighome - Open the zigwheel Homepage
+14:05:02.021 [main] INFO  TestBase.zighome - Select Honda as manufacturer
+14:05:05.927 [main] INFO  TestBase.zighome - Select Price under 4 lakh
+14:05:10.056 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:05:16.558 [main] INFO  TestBase.zighome - Select used cars in chennai
+14:05:29.475 [main] INFO  TestBase.zighome - Get model list
+14:05:34.188 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:05:42.880 [main] INFO  TestBase.zighome - Login the site with google
+14:07:04.295 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:07:16.274 [main] INFO  TestBase.zighome - Open the zigwheel Homepage
+14:07:28.660 [main] INFO  TestBase.zighome - Select Honda as manufacturer
+14:07:33.133 [main] INFO  TestBase.zighome - Select Price under 4 lakh
+14:07:37.606 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:07:47.986 [main] INFO  TestBase.zighome - Select used cars in chennai
+14:08:01.279 [main] INFO  TestBase.zighome - Get model list
+14:08:07.884 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:08:19.564 [main] INFO  TestBase.zighome - Login the site with google
+14:10:02.439 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:10:26.184 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:10:50.990 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:15:45.390 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:16:01.431 [main] INFO  TestBase.zighome - Open the zigwheel Homepage
+14:16:09.055 [main] INFO  TestBase.zighome - Select Honda as manufacturer
+14:16:11.610 [main] INFO  TestBase.zighome - Select Price under 4 lakh
+14:16:15.466 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:16:21.002 [main] INFO  TestBase.zighome - Select used cars in chennai
+14:16:34.362 [main] INFO  TestBase.zighome - Get model list
+14:16:38.569 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:16:46.153 [main] INFO  TestBase.zighome - Login the site with google
+14:21:30.572 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:21:40.492 [main] INFO  TestBase.zighome - Open the zigwheel Homepage
+14:21:48.511 [main] INFO  TestBase.zighome - Select Honda as manufacturer
+14:21:52.224 [main] INFO  TestBase.zighome - Select Price under 4 lakh
+14:21:57.042 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:22:09.305 [main] INFO  TestBase.zighome - Select used cars in chennai
+14:22:21.541 [main] INFO  TestBase.zighome - Get model list
+14:22:25.443 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:22:36.563 [main] INFO  TestBase.zighome - Login the site with google
+14:24:29.059 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:24:38.213 [main] INFO  TestBase.zighome - Open the zigwheel Homepage
+14:24:46.188 [main] INFO  TestBase.zighome - Select Honda as manufacturer
+14:24:49.337 [main] INFO  TestBase.zighome - Select Price under 4 lakh
+14:24:54.966 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:25:00.490 [main] INFO  TestBase.zighome - Select used cars in chennai
+14:25:13.381 [main] INFO  TestBase.zighome - Get model list
+14:25:17.574 [main] INFO  TestBase.zighome - --- Running on local system ---
+14:25:29.054 [main] INFO  TestBase.zighome - Login the site with google
+14:26:59.547 [main] INFO  TestBase.zighome - --- Running on local system ---
