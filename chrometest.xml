@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="Utilities.Extent_Report"/>
+</listeners>
+  <test thread-count="5" name="Test-chrome">
+    <classes>
+      <class name="TestCases.navigate_to_upcoming_Bikes"/>
+      <class name="TestCases.find_used_Cars"/>
+      <class name="TestCases.loginerror"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
